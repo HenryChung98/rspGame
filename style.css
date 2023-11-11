@@ -1,0 +1,33 @@
+body{
+  background-color: #444;
+}
+
+#canvas{
+  border: solid;
+  background-color: whitesmoke;
+  margin: 0 auto;
+  width: 400px;
+  height: 550px;
+}
+
+#canvas img{
+  width: 25px; 
+  height: 25px;
+}
+#buttonContainer{
+  border: solid;
+  margin: 0, auto;
+  padding: 10px;
+}
+
+#wallet, #haveBet{
+  color: whitesmoke;
+}
+.loan{
+  text-align: right;
+}
+.loanButton{
+  color: gray;
+  background-color: #444;
+  border: none;
+}
